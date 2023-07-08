@@ -1,0 +1,182 @@
+body{
+    background-image: url(images/Avatar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    margin-left: 20px;
+}
+.daniel{
+    display: flex;
+}
+.daniel img {
+    height: 40px;
+    width: 35px;
+}
+.daniel input {
+    padding: 8px;
+    width: 450px;
+    border-radius: 5px;
+    border: 0px;
+    margin-left: 10px;
+    font-weight: bolder;
+}
+.paul {
+    display: flex;
+    margin-left: 1000px;
+}
+.log1 {
+    background: rgb(12, 190, 190);
+    border-radius: 5px;
+    width: 120px;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 0px;
+}
+
+.log1:hover {
+    /* background-color: green; */
+}
+.log {
+    margin-left: 20px;
+    background: green;
+    border-radius: 5px;
+    width: 80px;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 0px;
+}
+.log:hover {
+    /* background-color: blue; */
+}
+.hr-cont {
+    display: flex;
+    margin-left: 0px;
+    margin-top: 0px;
+    }
+.line1 {
+    background: white;
+    width: 220px;
+    height: 2PX;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.line2 {
+    background: white;
+    width: 220px;
+    height: 2px;
+    margin-top: 10px;
+}
+
+.hr-cont span {
+    font-size: 20px;
+    color: white;
+    margin-left: px;
+}
+
+section{
+    height: 450px;
+    width: 400px;
+    margin: auto;
+}
+h1{
+    color: white;
+    font-size: 500%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+}
+section h1{
+    display: block;
+    margin: 30px;
+    margin-top: 100px;
+}
+.email{
+    padding: 15px;
+    width: 400px;
+    border-radius: 10px;
+    background: white;
+    border: 0px;
+    font-weight: bolder;
+}
+section .email{
+    display: block;
+    margin: 5px;
+}
+.password{
+    padding: 15px;
+    width: 400px;
+    border-radius: 10px;
+    background: white;
+    border: 0px;
+    font-weight: bolder;
+}
+section .password{
+    display: block;
+    margin: 5px;
+}
+.sign{
+    padding: 15px;
+    width: 435px;
+    border-radius: 5px;
+    background: rgb(12, 190, 190);
+    border: 0px; 
+    font-size: 15px;
+    font-weight: bolder;
+}
+section .sign{
+    display: block;
+    margin: 5px;
+}
+hr{
+    width: 435px;
+}
+.google{
+    padding: 15px;
+    width: 435px;
+    border-radius: 5px;
+    background: white;
+    border: 0px; 
+    font-size: 15px;
+    font-weight: bolder;
+}
+section .google{
+    display: block;
+    margin: 5px;
+}
+.apple{
+    padding: 15px;
+    width: 435px;
+    border-radius: 5px;
+    background: white;
+    border: 0px; 
+    font-size: 15px;
+    font-weight: bolder;
+}
+section .apple{
+    display: block;
+    margin: 5px;
+}
+.trending{
+    padding: 15px;
+    width: 435px;
+    border-radius: 5px;
+    background: transparent;
+    color: white;
+    border: 0px; 
+    margin: 0px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.peniel {
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 1px;
+    /* overflow-x: scroll; */
+    /* overflow-y: scroll; */
+}
+.peniel a {
+    color: white;
+}
+.niel2 {
+    margin-left: 1200px;
+}
